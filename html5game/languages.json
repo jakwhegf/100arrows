@@ -1,0 +1,71 @@
+{
+  "English": {
+    "Menus": [
+      "Practice course",
+      "Tournament",
+      "Achievements",
+      "Options",
+      "Language selection",
+      "Back",
+      "MENU",
+      "Music:",
+      "Sounds:",
+      "Mute all",
+      "Exit",
+      "Restart",
+      "Resume",
+      "Reset all progress",
+      "Are you sure?",
+      "Yes",
+      "No",
+      "Congratulations!",
+      "Back to menu"
+    ],
+    "Tutorial": [
+      "How to play?",
+      "1. Tap anywhere on the screen",
+      "2. Drag your finger to aim",
+      "3. Release",
+      "Tap to continue"
+      ],
+    "Messages": [
+      "CHALLENGE COMPLETED!",
+      "Arrows shot:",
+      "Arrows left:",
+      "Out of arrows...",
+      "Out of arrows...",
+      "Your journey in tournament has ended!",
+      "Ooops...",
+      "You are out of arrows. Maybe you should improve your results on previous     levels?",
+      "Sorry!",
+      "You have to finish Practice course to join the Tournament!"
+    ],
+    "Achievements": [
+      "Achievement unlocked!",
+      "You did it!",
+      "Complete practice mode",
+      "Training pays off!",
+      "Complete practice mode... but better",
+      "Nothing to do here...",
+      "Complete practice mode with 32 arrows left",
+      "So close...",
+      "Finish Tournament without winning",
+      "Winning feels good!",
+      "Win Tournament for the first time",
+      "Are you a robot?",
+      "Win Tournament in astonishing style",
+      "Sharing sucks!",
+      "Win Tournament ex aequo",
+      "Yep... We got the point...",
+      "Win Tournament 10 times",
+      "I'm a Legend",
+      "Prove that you are the BEST",
+      "Destroyer",
+      "Destroy 1000 targets",
+      "UFO",
+      "Warning! High altitude!",
+      "God of Archery",
+      "Unlock all achievements"
+    ]
+  }
+}
